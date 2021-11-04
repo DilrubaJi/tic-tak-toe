@@ -1,0 +1,23 @@
+{
+  "name": "tic-tak-toe",
+  "version": "1.0.0",
+  "description": "Test-Driven Development - Tic Tac Toe Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilrubaJi/tic-tak-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilrubaJi/tic-tak-toe/issues"
+  },
+  "homepage": "https://github.com/DilrubaJi/tic-tak-toe#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
